@@ -1,2 +1,4 @@
-# graczzz
-程式應用0218
+# Application of Programming
+
+## 00 Introduction
+## 01 Python Overview
