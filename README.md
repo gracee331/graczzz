@@ -16,8 +16,9 @@
 - [EX02-03 Yahoo 新聞儲存 Google 試算表](EX02_03_Yahoo_新聞儲存_Google_試算表.ipynb)
 - [EX02-04 Download Pokemon Images](EX02_04_Download_Pokemon_Images.ipynb)
 - [EX02-05 PTT Gossiping](EX02_05_PTT_Gossiping.ipynb)
-- [EX02_06_開眼電影](EX02_06_開眼電影.ipynb)
-- [EX02_07_KKDay](EX02_07_KKDay.ipynb)
+- [EX02-06_開眼電影](EX02_06_開眼電影.ipynb)
+- [EX02-07_KKDay](EX02_07_KKDay.ipynb)
+- [HW02-104人力銀行台中市職缺分析](HW02_104人力銀行台中市職缺分析.ipynb)
 
 ## 03 Data Analysis
 - [EX03-01 公司薪資概況Ⅰ](EX03_01_公司薪資概況Ⅰ.ipynb)
@@ -35,7 +36,7 @@
 - [EX04-04 加州房價](EX04_04_加州房價.ipynb)
 - [EX04-05 辨識鳶尾花](EX04_05_辨識鳶尾花.ipynb)
 - [EX04-06 ET_Today_新聞標題分類](EX04_06_ET_Today_新聞標題分類.ipynb)
-- [HW04_breast_cancer](HW04_breast_cancer.ipynb)
+- [HW04-breast_cancer](HW04_breast_cancer.ipynb)
 
 ## 05 Web API
 - [EX05-01 Echo Bot](EX05_01_Echo_Bot.ipynb)
